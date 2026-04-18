@@ -3,9 +3,7 @@
 💻 Interested in technology, programming, and building useful projects
 📚 Currently learning Python from scratch
 🧠 Curious about psychology and how people think
-
-🚀 What I'm doing now
-Learning Python and programming logic
+🚀 Learning Python and programming logic
 Building simple projects and improving consistently
 
 🛠️ Technologies (learning)
