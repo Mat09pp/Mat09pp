@@ -17,8 +17,7 @@ Programming fundamentals
 Grow from beginner to building real projects and eventually making money with programming.
 
 📫 Contact
-email: matheusladislau351@gmail.com
-discord: hf3466
+email: matheusladislau351@gmail.com or discord: hf3466
 <!--
 **Mat09pp/Mat09pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
