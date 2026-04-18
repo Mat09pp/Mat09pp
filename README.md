@@ -19,10 +19,6 @@ Grow from beginner to building real projects and eventually making money with pr
 📫 Contact
 email: matheusladislau351@gmail.com
 discord: hf3466
-
-⚡ Extra
-
-I prefer learning by doing 
 <!--
 **Mat09pp/Mat09pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
