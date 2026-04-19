@@ -1,18 +1,4 @@
-👋 Hi, I'm Matheus
 
-💻 Interested in technology, programming, and building useful projects.
-
-📚 Currently learning Python from scratch.
-
-🧠 Curious about psychology and how people think.
-
-🚀 Learning Python and programming logic, building simple projects and improving consistently.
-
-🛠️ Technologies (learning) Python, Git & GitHub Programming fundamentals.
-
-📈 From beginner to building real projects and eventually making money with programming.
-
-📫 Contact: matheusladislau351@gmail.com or discord: hf3466
 <!--
 **Mat09pp/Mat09pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
